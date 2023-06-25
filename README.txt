@@ -1,5 +1,5 @@
 # Spider-Devops-Task1
-copy all three files to root directory
+copy all three scripts to root directory
 #Please login  user account with Sudo previledges.
 sudo -i ( to Root) 
 #######To run Sibling.sh#######
