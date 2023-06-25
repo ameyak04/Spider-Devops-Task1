@@ -15,5 +15,5 @@ Giving executable permissions for sample.sh ----> chmod +x sample.sh
 to see contents of comp_log.txt ----> cat /tmp/comp_log.txt or nano /tmp/comp_log.txt
 
 #######System Information#######
-. systeminfo.sh
+. system_info.sh
 to see contents of system_info.txt ----> cat system_info.txt or nano system_info.txt
