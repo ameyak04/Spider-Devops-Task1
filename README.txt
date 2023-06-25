@@ -10,8 +10,8 @@ apt-get install nmap -y
 
 #######Creating a Cronjob#######
 to add an entry ( it creates file /var/spool/cron/crontab/) ----> crontab -e
-append the following text ----> 0 18 * * * /root/sample.sh
-Giving executable permissions for sample.sh ----> chmod +x sample.sh
+append the following text ----> 0 18 * * * /root/comp_log.sh
+Giving executable permissions for comp_log.sh ----> chmod +x comp_log.sh
 to see contents of comp_log.txt ----> cat /tmp/comp_log.txt or nano /tmp/comp_log.txt
 
 #######System Information#######
